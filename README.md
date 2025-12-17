@@ -152,7 +152,3 @@ Insurance-Claim-Prediction/
 Aspiring Data Scientist | Data Analyst
 🔗 [LinkedIn](https://www.linkedin.com/in/diwakar-kumar-data-scientist/)
 💻 [GitHub](https://github.com/Diwakar0102)
-
----
-
-⭐ If you find this project useful, feel free to star the repository!
