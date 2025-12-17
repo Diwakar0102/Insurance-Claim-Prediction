@@ -1,6 +1,6 @@
 # Insurance Claim Prediction 🚗📊
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 This project focuses on **predicting whether an insurance policyholder will file a claim** using historical policy and customer data. The dataset is highly imbalanced, making it a realistic **industry-style classification problem**.
 
